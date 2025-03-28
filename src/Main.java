@@ -4,6 +4,7 @@ import tasks.Task2;
 import tasks.Task3;
 import tasks.Task4;
 import tasks.Task5;
+import tasks.Task6;
 
 public class Main {
     public static void main(String[] args) {
@@ -27,6 +28,9 @@ public class Main {
                 break;
             case 5:
                 Task5.problem();
+                break;
+            case 6:
+                Task6.problem();
                 break;
             default:
                 System.out.println("Invalid choice! Please enter a number from 1 to 10.");
