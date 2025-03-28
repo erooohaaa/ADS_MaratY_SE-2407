@@ -33,6 +33,9 @@ public class Main {
             case 8:
                 Task8.problem();
                 break;
+            case 9:
+                Task9.problem();
+                break;
             default:
                 System.out.println("Invalid choice! Please enter a number from 1 to 10.");
         }
