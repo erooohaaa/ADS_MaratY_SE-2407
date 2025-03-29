@@ -1,12 +1,12 @@
-Main
+#Main
 1. Run this file to start the program
 2. Select the needed functions from the list
 3. Enter required arguments
 4. Get result
 
-Functions
+#Functions
 
-List of Tasks:
+#List of Tasks:
 
 Task 1: Find the smallest number in an array
 
@@ -36,7 +36,7 @@ Enter the required input and get the result.
 
 
 _______________________________________________________
-Structure:
+#Structure:
 /tasks
 │── Task1.java    # Minimum number in an array
 │── Task2.java    # Arithmetic mean calculation
@@ -52,10 +52,10 @@ Structure:
 └── Main.java     # Entry point for task selection
 README.md         # Project documentation
 _________________________________________________________
-Example Run:
+#Example Run:
 Choose a task (1-10): 3  
 Enter a number: 17  
 17 is a prime number  
 Execution time: 0.00123 ms  
-Author
+#Author
 Created by Marat Yerkanat.
