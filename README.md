@@ -1,16 +1,13 @@
-Java Algorithmic Tasks
-This project contains 10 algorithmic problems implemented in Java. Each task is a separate class, and they can all be run through Main.java, which provides a menu-based selection system.
+# Main
+1. Run this file to start the program
+2. Select the needed functions from the list
+3. Enter required arguments
+4. Get result
 
-How to Use
-Compile all .java files in the tasks folder along with Main.java.
+# Functions
 
-Run Main.java.
+ List of Tasks:
 
-Choose a task number (1-10) from the menu.
-
-Enter the required input and get the result.
-
-List of Tasks:
 Task 1: Find the smallest number in an array
 
 Task 2: Calculate the arithmetic mean of numbers
@@ -32,8 +29,14 @@ Task 9: Compute the binomial coefficient C(n, k)
 Task 10: Find the greatest common divisor (GCD)
 
 
+
+Choose a task number (1-10) from the menu.
+
+Enter the required input and get the result.
+
+
 _______________________________________________________
-Structure:
+# Structure:
 /tasks
 │── Task1.java    # Minimum number in an array
 │── Task2.java    # Arithmetic mean calculation
@@ -49,10 +52,10 @@ Structure:
 └── Main.java     # Entry point for task selection
 README.md         # Project documentation
 _________________________________________________________
-Example Run:
+# Example Run:
 Choose a task (1-10): 3  
 Enter a number: 17  
 17 is a prime number  
 Execution time: 0.00123 ms  
-Author
+# Author
 Created by Marat Yerkanat.
