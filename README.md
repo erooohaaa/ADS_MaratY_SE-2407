@@ -6,7 +6,7 @@
 
 # Functions
 
-# List of Tasks:
+ List of Tasks:
 
 Task 1: Find the smallest number in an array
 
